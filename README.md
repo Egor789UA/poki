@@ -1,13 +1,9 @@
-!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 <body>
 <header>
 
-    <h2>Тварини</h2>
+Тварини
 </header>
 <main><table>
 <tr><td>кіт лісовий</td><td>Проживає в лісі</td><td><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRz29hlU86jWPSPVE4ttZ7JKDtxZLiyRdHETCa8nFzOZPUvYZFmw83wbZJtTytGPWPnY7gOHHF4dtZ2fXcak7DL1y5R6on-956jc3pxnAA" alt="" width="150"></td></tr>
